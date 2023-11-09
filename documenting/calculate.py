@@ -12,6 +12,7 @@ def calculate_total(price, quantity):
     Returns:
         float: The total cost.
     """
+
     return price * quantity
 
 
